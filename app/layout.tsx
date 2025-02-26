@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Mouse Pro',
   description: 'Created with v0',
-  generator: 'v0.dev',
+  generator: 'Mouse Pro',
 }
 
 export default function RootLayout({
